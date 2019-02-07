@@ -3,7 +3,8 @@ Bookmark all the library that necessary for my Android Development
 
 ## Basic Android
 [Custom Adapter Example](https://github.com/udacity/ud839_CustomAdapter_Example) This app demonstrates how to create and use a ListView and custom ArrayAdapter (called FlavorAdapter) to display a custom list item view that contains an ImageView and two TextViews.
-</br>[RecycleView Example](https://github.com/googlesamples/android-RecyclerView/) The RecyclerView is a more advanced and more flexible version of the ListView. 
+</br>[RecycleView Example](https://github.com/googlesamples/android-RecyclerView/) The RecyclerView is a more advanced and more flexible version of the ListView.
+</br>[Parcelable Example](https://github.com/vector2016/udacity_projects/blob/master/app/src/main/java/demo/example/com/customarrayadapter/model/AndroidFlavor.java)
 
 ## Coding
 [Butterknife](https://github.com/JakeWharton/butterknife) Annotate fields with @BindView and a view ID for Butter Knife to find and automatically cast the corresponding view in your layout.
