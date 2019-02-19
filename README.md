@@ -7,7 +7,7 @@ Bookmark all the library that necessary for my Android Development
 </br>[Parcelable Example](https://github.com/vector2016/udacity_projects/blob/master/app/src/main/java/demo/example/com/customarrayadapter/model/AndroidFlavor.java)
 </br>[Android Jetpack Sample](https://github.com/googlesamples/android-sunflower) Android Jetpack is a set of components, tools and guidance to make great Android apps. They bring together the existing Support Library and Architecture Components and arranges them into four categories: Architecture, UI, Behavior, Foundation.
 
-## Coding
+## Compact Coding/ Refactoring
 [Butterknife](https://github.com/JakeWharton/butterknife) Annotate fields with @BindView and a view ID for Butter Knife to find and automatically cast the corresponding view in your layout.
 
 ## Web Library
