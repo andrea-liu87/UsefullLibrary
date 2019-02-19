@@ -13,3 +13,6 @@ Bookmark all the library that necessary for my Android Development
 ## Web Library
 [Retrofit](https://github.com/square/retrofit) REST API service / HTTP API.
 </br>[Android Asynchronous Http Client](http://loopj.com/android-async-http/) An asynchronous callback-based Http client for Android built on top of Apache's HttpClient libraries.
+  
+ ## UI / Layout
+ [Picasso](http://square.github.io/picasso/) Images add much-needed context and visual flair to Android applications. Picasso allows for hassle-free image loading in your application—often in one line of code!
