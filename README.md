@@ -9,6 +9,7 @@ Bookmark all the library that necessary for my Android Development
 
 ## Compact Coding/ Refactoring
 [Butterknife](https://github.com/JakeWharton/butterknife) Annotate fields with @BindView and a view ID for Butter Knife to find and automatically cast the corresponding view in your layout.
+</br>[Simple SQL Provider](https://github.com/ckurtm/simple-sql-provider) An easy way to create a sql based ContentProvider in Android using annotations
 
 ## Web Library
 [Retrofit](https://github.com/square/retrofit) REST API service / HTTP API.
