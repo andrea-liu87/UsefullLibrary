@@ -17,3 +17,6 @@ Bookmark all the library that necessary for my Android Development
   
  ## UI / Layout
  [Picasso](http://square.github.io/picasso/) Images add much-needed context and visual flair to Android applications. Picasso allows for hassle-free image loading in your application—often in one line of code!
+ 
+ ## Resources to create cute UI :
+ .[PasteL Color Palette](https://colorhunt.co/palettes/pastel)
